@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{projects.html}
+= Projects
+
+#~~~
+#{Project 1}
+
+
+#~~
+
+#~~~
+#{Project 2}
+
+#xxxxx
+#~~~
+
+#~~~
+#{Project 3}
+
+#xxxxx
+#~~~
+

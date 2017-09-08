@@ -16,7 +16,7 @@ footer {
 }
 
 button {
-    padding: -10px;
+    padding: -20px;
     margin: 0;
     height: text-height;
     border: 0px solid #000;
@@ -25,10 +25,10 @@ button {
 
 
 .transition {
-    -webkit-transform: scale(4); 
-    -moz-transform: scale(4);
-    -o-transform: scale(4);
-    transform: scale(4);
+    -webkit-transform: scale(7); 
+    -moz-transform: scale(7);
+    -o-transform: scale(7);
+    transform: scale(7);
 }
 img[id^=content] {
   -webkit-transition: all .4s ease-in-out;
